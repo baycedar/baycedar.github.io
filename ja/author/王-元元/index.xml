@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王 元元 | 杉浦 健人</title>
+    <link>/ja/author/%E7%8E%8B-%E5%85%83%E5%85%83/</link>
+      <atom:link href="/ja/author/%E7%8E%8B-%E5%85%83%E5%85%83/index.xml" rel="self" type="application/rss+xml" />
+    <description>王 元元</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Mon, 29 Feb 2016 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>王 元元</title>
+      <link>/ja/author/%E7%8E%8B-%E5%85%83%E5%85%83/</link>
+    </image>
+    
+    <item>
+      <title>シミュレーションデータウエアハウスにおける災害情報の統合分析</title>
+      <link>/ja/publication/20160229_deim_zhao/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160229_deim_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>シミュレーションデータの分析管理のためのデータウェアハウスについて</title>
+      <link>/ja/publication/20150915_fit_ishikawa/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20150915_fit_ishikawa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yukiko Wakita | Kento Sugiura</title>
+    <link>/en/author/yukiko-wakita/</link>
+      <atom:link href="/en/author/yukiko-wakita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yukiko Wakita</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yukiko Wakita</title>
+      <link>/en/author/yukiko-wakita/</link>
+    </image>
+    
+    <item>
+      <title>An Analysis Technique of Evacuation Simulation Using an Array DBMS</title>
+      <link>/en/publication/20180319_jdr_kawai/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0900</pubDate>
+      <guid>/en/publication/20180319_jdr_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difference Operators in Simulation Data Warehouses</title>
+      <link>/en/publication/20170316_jdr_zhao/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/en/publication/20170316_jdr_zhao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

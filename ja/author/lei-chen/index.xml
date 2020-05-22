@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Chen | 杉浦 健人</title>
+    <link>/ja/author/lei-chen/</link>
+      <atom:link href="/ja/author/lei-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lei Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lei Chen</title>
+      <link>/ja/author/lei-chen/</link>
+    </image>
+    
+    <item>
+      <title>Building Hierarchical Spatial Histograms for Exploratory Analysis in Array DBMS</title>
+      <link>/ja/publication/20190401_ieice_zhao/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190401_ieice_zhao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

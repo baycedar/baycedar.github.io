@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>董 テイテイ | 杉浦 健人</title>
+    <link>/ja/author/%E8%91%A3-%E3%83%86%E3%82%A4%E3%83%86%E3%82%A4/</link>
+      <atom:link href="/ja/author/%E8%91%A3-%E3%83%86%E3%82%A4%E3%83%86%E3%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    <description>董 テイテイ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Tue, 15 Sep 2015 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>董 テイテイ</title>
+      <link>/ja/author/%E8%91%A3-%E3%83%86%E3%82%A4%E3%83%86%E3%82%A4/</link>
+    </image>
+    
+    <item>
+      <title>シミュレーションデータの分析管理のためのデータウェアハウスについて</title>
+      <link>/ja/publication/20150915_fit_ishikawa/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20150915_fit_ishikawa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

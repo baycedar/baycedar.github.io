@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanyuan Wang | 杉浦 健人</title>
+    <link>/ja/author/yuanyuan-wang/</link>
+      <atom:link href="/ja/author/yuanyuan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuanyuan Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Fri, 18 Mar 2016 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuanyuan Wang</title>
+      <link>/ja/author/yuanyuan-wang/</link>
+    </image>
+    
+    <item>
+      <title>Simulation Data Warehouse for Integration and Analysis of Disaster Information</title>
+      <link>/ja/publication/20160318_jdr_zhao/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160318_jdr_zhao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Zhao | 杉浦 健人</title>
+    <link>/ja/author/jing-zhao/</link>
+      <atom:link href="/ja/author/jing-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jing Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jing Zhao</title>
+      <link>/ja/author/jing-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Building Hierarchical Spatial Histograms for Exploratory Analysis in Array DBMS</title>
+      <link>/ja/publication/20190401_ieice_zhao/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190401_ieice_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Data Summarization based on Spatial Histograms</title>
+      <link>/ja/publication/20190124_icnct_zhao/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190124_icnct_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histogram Construction for Difference Analysis of Spatio-Temporal Data on Array DBMS</title>
+      <link>/ja/publication/20180523_adc_zhao/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20180523_adc_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis Technique of Evacuation Simulation Using an Array DBMS</title>
+      <link>/ja/publication/20180319_jdr_kawai/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20180319_jdr_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difference Operators in Simulation Data Warehouses</title>
+      <link>/ja/publication/20170316_jdr_zhao/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170316_jdr_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Data Warehouse for Integration and Analysis of Disaster Information</title>
+      <link>/ja/publication/20160318_jdr_zhao/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160318_jdr_zhao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

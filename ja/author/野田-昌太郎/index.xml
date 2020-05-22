@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>野田 昌太郎 | 杉浦 健人</title>
+    <link>/ja/author/%E9%87%8E%E7%94%B0-%E6%98%8C%E5%A4%AA%E9%83%8E/</link>
+      <atom:link href="/ja/author/%E9%87%8E%E7%94%B0-%E6%98%8C%E5%A4%AA%E9%83%8E/index.xml" rel="self" type="application/rss+xml" />
+    <description>野田 昌太郎</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>野田 昌太郎</title>
+      <link>/ja/author/%E9%87%8E%E7%94%B0-%E6%98%8C%E5%A4%AA%E9%83%8E/</link>
+    </image>
+    
+    <item>
+      <title>多次元データの探索分析のための多様性を考慮した可視化システム</title>
+      <link>/ja/publication/20200304_deim_noda/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200304_deim_noda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多次元データ分析のための可視化推薦システム</title>
+      <link>/ja/publication/20190903_fit_noda/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190903_fit_noda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大規模データ分析のための可視化手法に関する検討</title>
+      <link>/ja/publication/20180313_ipsj_noda/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20180313_ipsj_noda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

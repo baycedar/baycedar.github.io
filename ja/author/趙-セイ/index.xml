@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>趙 セイ | 杉浦 健人</title>
+    <link>/ja/author/%E8%B6%99-%E3%82%BB%E3%82%A4/</link>
+      <atom:link href="/ja/author/%E8%B6%99-%E3%82%BB%E3%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    <description>趙 セイ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Fri, 16 Mar 2018 00:00:02 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>趙 セイ</title>
+      <link>/ja/author/%E8%B6%99-%E3%82%BB%E3%82%A4/</link>
+    </image>
+    
+    <item>
+      <title>大規模データ分析のための可視化手法に関する検討</title>
+      <link>/ja/publication/20180313_ipsj_noda/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20180313_ipsj_noda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>配列DBMSにおける空間スキャン統計量の計算手法</title>
+      <link>/ja/publication/20180313_ipsj_yasuda/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20180313_ipsj_yasuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>配列DBMSにおける時空間データの差分分析について</title>
+      <link>/ja/publication/20180304_deim_zhao/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20180304_deim_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNNに基づくデマンドヒートマップの連続的な更新手法</title>
+      <link>/ja/publication/20170912_fit_li/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20170912_fit_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>配列指向DBMSを用いた避難シミュレーションデータの格納と分析</title>
+      <link>/ja/publication/20170316_ipsj_kawai/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20170316_ipsj_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>時空間データ分析のための差分ヒストグラム構築手法</title>
+      <link>/ja/publication/20170306_deim_zhao/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170306_deim_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>時空間データウェアハウスにおける差分演算について</title>
+      <link>/ja/publication/20160907_fit_zhao/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20160907_fit_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>シミュレーションデータウエアハウスにおける災害情報の統合分析</title>
+      <link>/ja/publication/20160229_deim_zhao/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160229_deim_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>参加型センシングのための空間データベース問合せ処理</title>
+      <link>/ja/publication/20140903_fit_zhao/</link>
+      <pubDate>Wed, 03 Sep 2014 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20140903_fit_zhao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

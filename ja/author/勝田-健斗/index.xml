@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>勝田 健斗 | 杉浦 健人</title>
+    <link>/ja/author/%E5%8B%9D%E7%94%B0-%E5%81%A5%E6%96%97/</link>
+      <atom:link href="/ja/author/%E5%8B%9D%E7%94%B0-%E5%81%A5%E6%96%97/index.xml" rel="self" type="application/rss+xml" />
+    <description>勝田 健斗</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>勝田 健斗</title>
+      <link>/ja/author/%E5%8B%9D%E7%94%B0-%E5%81%A5%E6%96%97/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルネットワークにおける特定のユーザを対象とした影響最大化</title>
+      <link>/ja/publication/20190305_deim_katsuda/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20190305_deim_katsuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ユーザの位置情報を考慮した領域内の影響最大化に対する効率的なアプローチ</title>
+      <link>/ja/publication/20180919_fit_katsuda/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20180919_fit_katsuda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

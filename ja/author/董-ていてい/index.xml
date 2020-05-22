@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>董 ていてい | 杉浦 健人</title>
+    <link>/ja/author/%E8%91%A3-%E3%81%A6%E3%81%84%E3%81%A6%E3%81%84/</link>
+      <atom:link href="/ja/author/%E8%91%A3-%E3%81%A6%E3%81%84%E3%81%A6%E3%81%84/index.xml" rel="self" type="application/rss+xml" />
+    <description>董 ていてい</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Wed, 04 Sep 2013 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>董 ていてい</title>
+      <link>/ja/author/%E8%91%A3-%E3%81%A6%E3%81%84%E3%81%A6%E3%81%84/</link>
+    </image>
+    
+    <item>
+      <title>曖昧な移動軌跡に対する範囲問合せ</title>
+      <link>/ja/publication/20130904_fit_hayashi/</link>
+      <pubDate>Wed, 04 Sep 2013 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20130904_fit_hayashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移動ロボットデータベースにおけるモニタリング問合せ処理手法</title>
+      <link>/ja/publication/20130306_ipsj_sugiura/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20130306_ipsj_sugiura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

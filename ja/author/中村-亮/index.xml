@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中村 亮 | 杉浦 健人</title>
+    <link>/ja/author/%E4%B8%AD%E6%9D%91-%E4%BA%AE/</link>
+      <atom:link href="/ja/author/%E4%B8%AD%E6%9D%91-%E4%BA%AE/index.xml" rel="self" type="application/rss+xml" />
+    <description>中村 亮</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>中村 亮</title>
+      <link>/ja/author/%E4%B8%AD%E6%9D%91-%E4%BA%AE/</link>
+    </image>
+    
+    <item>
+      <title>ライフログサービスのためのオントロジに基づく行動イベント処理</title>
+      <link>/ja/publication/20170306_deim_nakamura/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170306_deim_nakamura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>オントロジを用いた行動イベント分析</title>
+      <link>/ja/publication/20160907_fit_nakamura/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20160907_fit_nakamura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

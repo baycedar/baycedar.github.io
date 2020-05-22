@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | 杉浦 健人</title>
+    <link>/ja/publication-type/1/</link>
+      <atom:link href="/ja/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/ja/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Multiple Regular Expression Pattern Monitoring over Probabilistic Event Streams</title>
+      <link>/ja/publication/20200501_ieice_sugiura/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200501_ieice_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Hierarchical Spatial Histograms for Exploratory Analysis in Array DBMS</title>
+      <link>/ja/publication/20190401_ieice_zhao/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190401_ieice_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Evacuation Trajectory Data Using Tensor Decomposition</title>
+      <link>/ja/publication/20190328_jdr_kawai/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190328_jdr_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおける情報理論に基づく指標を用いた正規表現パターン照合手法</title>
+      <link>/ja/publication/20180401_ieice_sugiura/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20180401_ieice_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis Technique of Evacuation Simulation Using an Array DBMS</title>
+      <link>/ja/publication/20180319_jdr_kawai/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20180319_jdr_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouping Methods for Pattern Matching over Probabilistic Data Streams</title>
+      <link>/ja/publication/20170401_ieice_sugiura/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170401_ieice_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difference Operators in Simulation Data Warehouses</title>
+      <link>/ja/publication/20170316_jdr_zhao/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170316_jdr_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Data Warehouse for Integration and Analysis of Disaster Information</title>
+      <link>/ja/publication/20160318_jdr_zhao/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160318_jdr_zhao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

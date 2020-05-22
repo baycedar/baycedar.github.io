@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杉浦 健人</title>
+    <link>/ja/</link>
+      <atom:link href="/ja/index.xml" rel="self" type="application/rss+xml" />
+    <description>杉浦 健人</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2018 Kento Sugiura</copyright>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>杉浦 健人</title>
+      <link>/ja/</link>
+    </image>
+    
+    <item>
+      <title>Multiple Regular Expression Pattern Monitoring over Probabilistic Event Streams</title>
+      <link>/ja/publication/20200501_ieice_sugiura/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200501_ieice_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>メニーコアシステムにおける分散ストリーム処理システムの性能評価 - スループットに関する評価 -</title>
+      <link>/ja/publication/20200307_ipsj_tokumasu/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200307_ipsj_tokumasu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>メニーコアシステムにおける分散ストリーム処理システムの性能評価 - 遅延に関する評価 -</title>
+      <link>/ja/publication/20200307_ipsj_makita/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200307_ipsj_makita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDBMSによる3D TINデータベース実装手法</title>
+      <link>/ja/publication/20200306_ipsj_tanaka/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200306_ipsj_tanaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>データベースのスキーマ情報を活用した機械学習</title>
+      <link>/ja/publication/20200304_deim_shimura/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200304_deim_shimura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>並列ストリーム処理システムにおけるDBを用いた内部状態の共有手法</title>
+      <link>/ja/publication/20200304_deim_sugiura/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200304_deim_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多次元データの探索分析のための多様性を考慮した可視化システム</title>
+      <link>/ja/publication/20200304_deim_noda/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200304_deim_noda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>チェックポインティングを考慮した近似的耐障害性保証</title>
+      <link>/ja/publication/20200303_deim_takao/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200303_deim_takao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Fault Tolerance for Sensor Stream Processing</title>
+      <link>/ja/publication/20200204_adc_takao/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20200204_adc_takao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLDB2019国際会議報告</title>
+      <link>/ja/talk/20191223_sigmodj/</link>
+      <pubDate>Mon, 23 Dec 2019 15:30:00 +0900</pubDate>
+      <guid>/ja/talk/20191223_sigmodj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>センサストリーム処理のための近似的耐障害性保証</title>
+      <link>/ja/publication/20190910_dbs_takao/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190910_dbs_takao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>避難シミュレーションデータのテンソル分解を用いた分析</title>
+      <link>/ja/publication/20190910_webdb-forum_sugiura/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190910_webdb-forum_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>データベースのスキーマ情報を活用した機械学習</title>
+      <link>/ja/publication/20190903_fit_shimura/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190903_fit_shimura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多次元データ分析のための可視化推薦システム</title>
+      <link>/ja/publication/20190903_fit_noda/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190903_fit_noda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Hierarchical Spatial Histograms for Exploratory Analysis in Array DBMS</title>
+      <link>/ja/publication/20190401_ieice_zhao/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190401_ieice_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Evacuation Trajectory Data Using Tensor Decomposition</title>
+      <link>/ja/publication/20190328_jdr_kawai/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190328_jdr_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大規模点群データ分析のためのデータベースの検討</title>
+      <link>/ja/publication/20190314_ipsj_kasai/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20190314_ipsj_kasai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>データベース管理システムにおける3D TIN 管理の検討</title>
+      <link>/ja/publication/20190314_ipsj_sugiura/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20190314_ipsj_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>テンソル分解を用いた避難移動軌跡データの分析</title>
+      <link>/ja/publication/20190306_deim_kawai/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20190306_deim_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>データストリーム管理システムに関する再考</title>
+      <link>/ja/publication/20190305_deim_sugiura/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20190305_deim_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率モデルに基づく近似的な耐障害性の保証</title>
+      <link>/ja/publication/20190305_deim_takao/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20190305_deim_takao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルネットワークにおける特定のユーザを対象とした影響最大化</title>
+      <link>/ja/publication/20190305_deim_katsuda/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20190305_deim_katsuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regular Expression Pattern Matching with Sliding Windows over Probabilistic Event Streams</title>
+      <link>/ja/publication/20190302_bigcomp_sugiura/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190302_bigcomp_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Data Summarization based on Spatial Histograms</title>
+      <link>/ja/publication/20190124_icnct_zhao/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20190124_icnct_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>データストリームの集約処理における近似的耐障害性に関する一考察</title>
+      <link>/ja/publication/20180920_fit_takao/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20180920_fit_takao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>テンソル分解を用いた避難移動軌跡データの分析</title>
+      <link>/ja/publication/20180919_fit_kawai/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20180919_fit_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ユーザの位置情報を考慮した領域内の影響最大化に対する効率的なアプローチ</title>
+      <link>/ja/publication/20180919_fit_katsuda/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20180919_fit_katsuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICDE2018国際会議報告</title>
+      <link>/ja/talk/20180623_sigmodj/</link>
+      <pubDate>Sat, 23 Jun 2018 14:10:00 +0900</pubDate>
+      <guid>/ja/talk/20180623_sigmodj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histogram Construction for Difference Analysis of Spatio-Temporal Data on Array DBMS</title>
+      <link>/ja/publication/20180523_adc_zhao/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20180523_adc_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおける情報理論に基づく指標を用いた正規表現パターン照合手法</title>
+      <link>/ja/publication/20180401_ieice_sugiura/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20180401_ieice_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis Technique of Evacuation Simulation Using an Array DBMS</title>
+      <link>/ja/publication/20180319_jdr_kawai/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20180319_jdr_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大規模データ分析のための可視化手法に関する検討</title>
+      <link>/ja/publication/20180313_ipsj_noda/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20180313_ipsj_noda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDBの構造を考慮したデータベースからの学習手法について</title>
+      <link>/ja/publication/20180313_ipsj_shimura/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20180313_ipsj_shimura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>配列DBMSにおける空間スキャン統計量の計算手法</title>
+      <link>/ja/publication/20180313_ipsj_yasuda/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20180313_ipsj_yasuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>配列DBMSにおける時空間データの差分分析について</title>
+      <link>/ja/publication/20180304_deim_zhao/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20180304_deim_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDBと連携したイベント計算による複合イベント処理</title>
+      <link>/ja/publication/20180304_deim_kanayama/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20180304_deim_kanayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Calculusに基づく複合イベント処理について</title>
+      <link>/ja/publication/20170912_fit_kanayama/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20170912_fit_kanayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNNに基づくデマンドヒートマップの連続的な更新手法</title>
+      <link>/ja/publication/20170912_fit_li/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20170912_fit_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction of Frequent Patterns Based on Users&#39; Interests from Semantic Trajectories with Photographs</title>
+      <link>/ja/publication/20170712_ideas_takimoto/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170712_ideas_takimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top-k Pattern Matching Using an Information-theoretic Criterion over Probabilistic Data Streams</title>
+      <link>/ja/publication/20170709_apweb-waim_sugiura/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170709_apweb-waim_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouping Methods for Pattern Matching over Probabilistic Data Streams</title>
+      <link>/ja/publication/20170401_ieice_sugiura/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170401_ieice_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>都市・国土環境分析のためのレジリエンス・サステナビリティ評価ワークベンチの開発</title>
+      <link>/ja/publication/20170322_ieice_ishikawa/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/20170322_ieice_ishikawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Calculusに基づく複合イベント処理について</title>
+      <link>/ja/publication/20170316_ipsj_kanayama/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20170316_ipsj_kanayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>配列指向DBMSを用いた避難シミュレーションデータの格納と分析</title>
+      <link>/ja/publication/20170316_ipsj_kawai/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20170316_ipsj_kawai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difference Operators in Simulation Data Warehouses</title>
+      <link>/ja/publication/20170316_jdr_zhao/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170316_jdr_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ジオタグ付き写真の被写体を考慮した意味的な移動軌跡の分析</title>
+      <link>/ja/publication/20170306_deim_takimoto/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170306_deim_takimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ライフログサービスのためのオントロジに基づく行動イベント処理</title>
+      <link>/ja/publication/20170306_deim_nakamura/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170306_deim_nakamura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>時空間データ分析のための差分ヒストグラム構築手法</title>
+      <link>/ja/publication/20170306_deim_zhao/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170306_deim_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおける情報利得を用いたTop-kパターン照合手法</title>
+      <link>/ja/publication/20170306_deim_sugiura/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20170306_deim_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおける情報利得を用いたパターン照合手法</title>
+      <link>/ja/publication/20160913_webdb_sugiura/</link>
+      <pubDate>Tue, 13 Sep 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160913_webdb_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>オントロジを用いた行動イベント分析</title>
+      <link>/ja/publication/20160907_fit_nakamura/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20160907_fit_nakamura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ジオタグ付き写真を用いた意味的な移動軌跡の分析</title>
+      <link>/ja/publication/20160907_fit_takimoto/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20160907_fit_takimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>時空間データウェアハウスにおける差分演算について</title>
+      <link>/ja/publication/20160907_fit_zhao/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20160907_fit_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおけるパターン照合手法</title>
+      <link>/ja/talk/20160831_toyoya/</link>
+      <pubDate>Wed, 31 Aug 2016 13:00:00 +0900</pubDate>
+      <guid>/ja/talk/20160831_toyoya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Data Warehouse for Integration and Analysis of Disaster Information</title>
+      <link>/ja/publication/20160318_jdr_zhao/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160318_jdr_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDBを用いた複合イベント処理システムの開発</title>
+      <link>/ja/publication/20160310_ipsj_kanayama/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160310_ipsj_kanayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおける情報利得に基づいたパターン照合手法</title>
+      <link>/ja/publication/20160301_deim_sugiura/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160301_deim_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>シミュレーションデータウエアハウスにおける災害情報の統合分析</title>
+      <link>/ja/publication/20160229_deim_zhao/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20160229_deim_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>シミュレーションデータの分析管理のためのデータウェアハウスについて</title>
+      <link>/ja/publication/20150915_fit_ishikawa/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20150915_fit_ishikawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>複数ドメインのデータストリームにおける意味的なイベント検出について</title>
+      <link>/ja/publication/20150915_fit_sasaki/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20150915_fit_sasaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおけるパターン問合せ結果の時間的重複に基づくグループ化</title>
+      <link>/ja/publication/20150805_dbs_sugiura/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20150805_dbs_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouping Methods for Pattern Matching in Probabilistic Data Streams</title>
+      <link>/ja/publication/20150420_dasfaa_sugiura/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20150420_dasfaa_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>時空間データ分析のためのSpatialHadoopの拡張</title>
+      <link>/ja/publication/20150317_ipsj_takimoto/</link>
+      <pubDate>Tue, 17 Mar 2015 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20150317_ipsj_takimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおけるパターン照合結果のグループ化</title>
+      <link>/ja/publication/20150302_deim_sugiura/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20150302_deim_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>意味的な複合イベント処理を可能とするイベントベースについて</title>
+      <link>/ja/publication/20141118_dbs_ishikawa/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20141118_dbs_ishikawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>参加型センシングのための空間データベース問合せ処理</title>
+      <link>/ja/publication/20140903_fit_zhao/</link>
+      <pubDate>Wed, 03 Sep 2014 00:00:02 +0000</pubDate>
+      <guid>/ja/publication/20140903_fit_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>行動オントロジによるセンサデータからの複合イベント検出について</title>
+      <link>/ja/publication/20140903_fit_sasaki/</link>
+      <pubDate>Wed, 03 Sep 2014 00:00:01 +0000</pubDate>
+      <guid>/ja/publication/20140903_fit_sasaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的データストリームにおけるパターン問合せ結果のグループ化</title>
+      <link>/ja/publication/20140801_dbs_sugiura/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20140801_dbs_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Query Processing in Mobile Robot Databases</title>
+      <link>/ja/publication/20140421_dasfaa_sugiura/</link>
+      <pubDate>Mon, 21 Apr 2014 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20140421_dasfaa_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>確率的ストリームにおけるグループを用いたパターン問合せ</title>
+      <link>/ja/publication/20140311_ipsj_sugiura/</link>
+      <pubDate>Tue, 11 Mar 2014 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20140311_ipsj_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>曖昧な移動軌跡に対する範囲問合せ</title>
+      <link>/ja/publication/20130904_fit_hayashi/</link>
+      <pubDate>Wed, 04 Sep 2013 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20130904_fit_hayashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移動ロボットデータベースにおける問合せ処理</title>
+      <link>/ja/publication/20130722_de_sugiura/</link>
+      <pubDate>Mon, 22 Jul 2013 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20130722_de_sugiura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移動ロボットデータベースにおけるモニタリング問合せ処理手法</title>
+      <link>/ja/publication/20130306_ipsj_sugiura/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0900</pubDate>
+      <guid>/ja/publication/20130306_ipsj_sugiura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
